@@ -68,19 +68,7 @@
 Traductor:
 <a href="https://www.deepl.com/translator">Deepl</a>
 
-<h1>Tipos de fuente</h1>
-<h2>Tipos de fuente</h2>
-<h3>Tipos de fuente</h3>
-<h4>Tipos de fuente</h4>
-<h5>Tipos de fuente</h5>
-<h6>Tipos de fuente</h6>
 
-<ul> <!-- unordered list -->
-<li>Maqueta 1</li> <!--list item -->
-<li>Maqueta 2</li>
-<li>Maqueta 3</li>
-<li>Maqueta 4</li>
-</ul>
 </body>
 
 </html>
