@@ -48,7 +48,7 @@
 </tr>
 
 <tr>
- <td>Clover/Shhamrock </td>
+ <td>Clover/Shamrock </td>
  <td>Trébol</td>
 </tr>
 
@@ -62,7 +62,7 @@
  <td>Herradura</td>
 </tr>
 
-</table
+</table>
 
 
 Traductor:
