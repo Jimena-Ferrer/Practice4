@@ -1,0 +1,15 @@
+<!DOCTYPE>
+<html>
+  <head>
+    <style>
+    h1{
+      color: pink;
+    }  
+    </style>
+  </head>
+  <body>
+
+    <h1> Hola mundo <h1>
+
+  </body>
+</html>
